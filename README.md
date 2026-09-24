@@ -3,7 +3,7 @@
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=support)](https://github.com/brandonhimpfen/support) 
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=flat&logo=github)](https://github.com/sponsors/brandonhimpfen) 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/brandonhimpfen) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=flat&logo=ko-fi)](https://ko-fi.com/brandonhimpfen) 
+[![Ko-Fi](https://img.shields.io/badge/Ko-Fi-F16061?style=flat&logo=ko-fi)](https://ko-fi.com/brandonhimpfen) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/ListsAwesome) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/awesomelists)
@@ -76,18 +76,18 @@
 - [Sketch](https://www.sketch.com) - Digital design and prototyping tool for social media visuals.
 
 ## Podcasts
-- [Social Media Marketing Podcast](https://www.socialmediaexaminer.com/shows) - Expert interviews and insights on social media strategy and best practices.
+- [Social Media Marketing Podcast](https://www.socialmediaexaminer.com/shows) - Expert interviews and insights on social media marketing.
 - [The Science of Social Media](https://buffer.com/resources/podcast) - Data-driven social media strategies and trends.
 - [Social Pros Podcast](https://www.convinceandconvert.com/shows/social-pros) - Real stories and insights from social media professionals.
 
 ## Blogs
 - [Buffer Blog](https://buffer.com/resources) - Social media marketing tips, insights, and case studies.
-- [Hootsuite Blog](https://blog.hootsuite.com) - Social media marketing tips, insights, and case studies.
+- [Hootsuite Blog](https://blog.hootsuite.com) - Social media marketing tips, insights, and best practices.
 - [Sprout Social Insights](https://sproutsocial.com/insights) - Actionable tips and social media trends.
-- [Social Media Examiner](https://www.socialmediaexaminer.com) - Comprehensive guides and industry reports on social media.
+- [Social Media Examiner](https://www.socialmediaexaminer.com) - Comprehensive guides and industry reports on social media strategy and best practices.
 
 ## Books
-- [Jab, Jab, Jab, Right Hook](https://www.amazon.com/Jab-Right-Hook-Story/dp/006227306X) by Gary Vaynerchuk
+- [Jab, Jab, Jab, Right Hook](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X) by Gary Vaynerchuk
 - [Contagious: How to Build Word of Mouth in the Digital Age](https://www.amazon.com/Contagious-Build-Word-Mouth-Story/dp/1451686579) by Jonah Berger
 - [The Art of Social Media: Power Tips for Power Users](https://www.amazon.com/Art-of-Social-Media-Power-Users/dp/1591848075) by Guy Kawasaki and Peg Fitzpatrick
 
@@ -99,4 +99,4 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
