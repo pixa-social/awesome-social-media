@@ -82,12 +82,12 @@
 
 ## Blogs
 - [Buffer Blog](https://buffer.com/resources) - Social media marketing tips, insights, and case studies.
-- [Hootsuite Blog](https://blog.hootsuite.com) - Articles and resources on social media strategy and best practices.
+- [Hootsuite Blog](https://blog.hootsuite.com) - Social media marketing tips, insights, and best practices.
 - [Sprout Social Insights](https://sproutsocial.com/insights) - Actionable tips and social media trends.
 - [Social Media Examiner](https://www.socialmediaexaminer.com) - Comprehensive guides and industry reports on social media marketing.
 
 ## Books
-- [Jab, Jab, Jab, Right Hook](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X) by Gary Vaynerchuk
+- [Jab, Jab, Jab, Right Hook](https://www.amazon.com/Jab-Right-Hook-Story/dp/006227306X) by Gary Vaynerchuk
 - [Contagious: How to Build Word of Mouth in the Digital Age](https://www.amazon.com/Contagious-Build-Word-Mouth-Digital/dp/1451686579) by Jonah Berger
 - [The Art of Social Media: Power Tips for Power Users](https://www.amazon.com/Art-of-Social-Media-Power-Users/dp/1591848075) by Guy Kawasaki and Peg Fitzpatrick
 
