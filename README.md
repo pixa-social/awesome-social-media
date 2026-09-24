@@ -1,12 +1,12 @@
 # Awesome Social Media [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
-[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
-[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
-[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/brandonhimpfen?style=flat)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://img.shields.io/badge/Support-Ko--fi-F16061?style=flat&logo=ko-fi)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://img.shields.io/badge/Support-PayPal-00457C?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
+[![X](https://img.shields.io/badge/Follow-@ListsAwesome-000000?style=flat&logo=x)](https://x.com/ListsAwesome) 
+[![Facebook](https://img.shields.io/badge/Follow-Awesome%20Lists-1877F2?style=flat&logo=facebook)](https://www.facebook.com/awesomelists)
 
 > A curated list of resources and tips to level up your social media game!
 
@@ -25,6 +25,7 @@
 - [Books](#books)
 
 ## Social Media Management Tools
+- [PixaSocial Ai](https://pixasocial.com) - Psychology-first AI social media content scheduling and publishing for brands and teams.
 - [Hootsuite](https://hootsuite.com) - Manage and schedule posts across multiple social media platforms.
 - [Buffer](https://buffer.com) - Plan, create, and schedule content for social media.
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
@@ -35,7 +36,7 @@
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.
 - [Adobe Spark](https://spark.adobe.com) - Easily create videos, graphics, and web pages for social media.
 - [Unsplash](https://unsplash.com) - A collection of high-quality, royalty-free images for your social media posts.
-- [Pexels](https://pexels.com) - Another great source for free stock photos and videos.
+- [Pexels](https://pexels.com) - Another great source of free stock photos and videos.
 
 ## Community Management
 - [Sprinklr](https://www.sprinklr.com) - End-to-end social media management and customer experience platform.
@@ -75,20 +76,20 @@
 - [Sketch](https://www.sketch.com) - Digital design and prototyping tool for social media visuals.
 
 ## Podcasts
-- [Social Media Marketing Podcast](https://www.socialmediaexaminer.com/shows) - Expert interviews and insights on social media marketing.
+- [Social Media Marketing Podcast](https://www.socialmediaexaminer.com/shows) - Expert interviews and insights on social media strategy and best practices.
 - [The Science of Social Media](https://buffer.com/resources/podcast) - Data-driven social media strategies and trends.
-- [Social Pros Podcast](https://www.convinceandconvert.com/shows/social-pros-podcast) - Real stories and insights from social media professionals.
+- [Social Pros Podcast](https://www.convinceandconvert.com/shows/social-pros) - Real stories and insights from social media professionals.
 
 ## Blogs
 - [Buffer Blog](https://buffer.com/resources) - Social media marketing tips, insights, and case studies.
-- [Hootsuite Blog](https://blog.hootsuite.com) - Articles and resources on social media strategy and best practices.
+- [Hootsuite Blog](https://blog.hootsuite.com) - Social media marketing tips, insights, and case studies.
 - [Sprout Social Insights](https://sproutsocial.com/insights) - Actionable tips and social media trends.
-- [Social Media Examiner](https://www.socialmediaexaminer.com) - Comprehensive guides and industry reports on social media marketing.
+- [Social Media Examiner](https://www.socialmediaexaminer.com) - Comprehensive guides and industry reports on social media.
 
 ## Books
 - [Jab, Jab, Jab, Right Hook](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X) by Gary Vaynerchuk
-- [Contagious: How to Build Word of Mouth in the Digital Age](https://www.amazon.com/Contagious-Build-Word-Mouth-Digital/dp/1451686579) by Jonah Berger
-- [The Art of Social Media: Power Tips for Power Users](https://www.amazon.com/Art-Social-Media-Power-Users/dp/1591848075) by Guy Kawasaki and Peg Fitzpatrick
+- [Contagious: How to Build Word of Mouth in the Digital Age](https://www.amazon.com/Contagious-Build-Word-Mouth-Story/dp/1451686579) by Jonah Berger
+- [The Art of Social Media: Power Tips for Power Users](https://www.amazon.com/Art-of-Social-Media-Power-Users/dp/1591848075) by Guy Kawasaki and Peg Fitzpatrick
 
 ## Contribute
 
