@@ -3,7 +3,7 @@
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=support)](https://github.com/brandonhimpfen/support) 
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=flat&logo=github)](https://github.com/sponsors/brandonhimpfen) 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/brandonhimpfen) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi)](https://ko-fi.com/brandonhimpfen) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=flat&logo=ko-fi)](https://ko-fi.com/brandonhimpfen) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) <br />
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/ListsAwesome) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/awesomelists)
@@ -78,7 +78,7 @@
 ## Podcasts
 - [Social Media Marketing Podcast](https://www.socialmediaexaminer.com/shows) - Expert interviews and insights on social media strategy and best practices.
 - [The Science of Social Media](https://buffer.com/resources/podcast) - Data-driven social media strategies and trends.
-- [Social Pros Podcast](https://www.convinceandconvert.com/shows/social-pros-podcast) - Real stories and insights from social media professionals.
+- [Social Pros Podcast](https://www.convinceandconvert.com/shows/social-pros) - Real stories and insights from social media professionals.
 
 ## Blogs
 - [Buffer Blog](https://buffer.com/resources) - Social media marketing tips, insights, and case studies.
@@ -99,4 +99,4 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
